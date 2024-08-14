@@ -1,6 +1,6 @@
 # freezed_practice
 
-A new Flutter project.
+freezedから逃げない‼️
 
 ## Getting Started
 
